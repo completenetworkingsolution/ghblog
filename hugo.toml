@@ -1,4 +1,4 @@
-baseURL = 'https://completenetworkingsolution.github.io/'
+baseURL = 'https://completenetworkingsolution.github.io/ghblog'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
